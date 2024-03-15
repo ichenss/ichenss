@@ -15,10 +15,10 @@
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ichenss&show_icons=true&theme=dark&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ichenss&show_icons=true&theme=dark&count_private=true) [![GitHub Streak](https://streak-stats.demolab.com/?user=ichenss)](https://git.io/streak-stats)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ichenss)](https://git.io/streak-stats)
+
 
 
 
