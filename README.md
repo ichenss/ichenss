@@ -22,7 +22,7 @@
 
 
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=ichenss&theme=xcode" /> </div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ichenss)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ichenss&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
