@@ -11,3 +11,6 @@
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ichenss&show_icons=true&theme=dark&count_private=true)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ichenss&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
