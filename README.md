@@ -7,8 +7,6 @@
 <span > <img src="https://img.shields.io/badge/-C\C++-E34F26?style=flat-square&logo=C\C++&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-Qt-1572B6?style=flat-square&logo=Qt" /> 
 <img src="https://img.shields.io/badge/-Golang-oringe?style=flat-square&logo=Golang" /> </span>
-
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
   
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ichenss&theme=dark&layout=compact)
