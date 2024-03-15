@@ -1,4 +1,5 @@
 ### 欢迎来关顾我的主页 👋
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
 
 - 😎 目前大学生一名，愿意搞点技术
 - 🌱 本人技术栈 C\C++，目前正在学习 golang ，希望多多指教
