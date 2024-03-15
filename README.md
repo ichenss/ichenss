@@ -9,13 +9,13 @@
 <img src="https://img.shields.io/badge/-Golang-oringe?style=flat-square&logo=Golang" /> </span>
   
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ichenss&theme=dark&layout=compact)![Github Stats](https://github-readme-stats.vercel.app/api?username=ichenss&show_icons=true&theme=dark&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ichenss&theme=dark&layout=compact)
 
 
 
 
 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=ichenss)](https://git.io/streak-stats)
+ ![Github Stats](https://github-readme-stats.vercel.app/api?username=ichenss&show_icons=true&theme=dark&count_private=true)[![GitHub Streak](https://streak-stats.demolab.com/?user=ichenss)](https://git.io/streak-stats)
 
 
 
