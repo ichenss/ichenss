@@ -18,4 +18,11 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ichenss&show_icons=true&theme=dark&count_private=true)
 
 
+
+
+
+
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=ichenss&theme=xcode" /> </div>
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ichenss&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
